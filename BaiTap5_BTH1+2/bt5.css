@@ -1,0 +1,30 @@
+.header1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 100, 100, 100;
+    background-color: yellow;
+}
+
+.phanphai {
+    display: flex;
+}
+
+span {
+    padding: 7px;
+}
+
+span,
+#id2 {
+    font-weight: 100px;
+}
+
+#txtbox {
+    padding: 3px;
+}
+
+#btn {
+    padding: 3px;
+    border-radius: 100%;
+    color: green;
+}
